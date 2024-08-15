@@ -5,46 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33e3d2eb-a723-46a5-be25-67d18db54465" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/003e132a-aee2-460e-a2d6-ce73ad6c364a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/130a1430-57f7-4811-b4fc-6d8c8e69fe45-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/189b1749-d73d-4161-81b7-d7f324d0a0e8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/2966e4f1-00d8-4882-a35d-03e04a8e1886-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/3608732f-89d4-4dd2-820e-a6abc8e71070-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/39ce9341-903e-4805-92ce-ff6d2eb995bb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/47847616-908a-4188-bcf4-e2982f41d0d7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/5159f4b5-2551-49a3-9d22-e26d4cced2ee-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/52bcd74b-8d92-442a-935a-ca8bb32b1744-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/56ca216d-3825-4812-b584-03427952afaf-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/6abd20c6-9b07-4c43-ae19-88bd5454b4c0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/6ffde364-cf81-47d6-b8d7-1065eae3854c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/8c7570f4-4ace-4b27-b392-9de8b01bc312-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/90cc7f4e-7d13-44aa-a100-e725ef4cb34c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/9729dd2d-15f9-404f-b5b2-67ae1151e591-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/9b80be41-bb97-4828-b006-24120caffbb2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/a5caf346-31a3-4868-9877-df238c4365fe-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/a8b7fa6c-450e-4a06-9e34-4b00de25431d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/a9baddfc-9d9a-4634-b9e2-bdf2996af453-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/aaebc7ed-86df-41e8-a26e-8993473ef0b0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/cab8410b-5df8-4899-8b43-4384bab6fe1c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/cd7ffff3-7206-4969-b785-9f0ce2d52b79-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/e27e8c03-c9e9-4ddf-b58d-1c3a9c9a3056-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_results/f6671c1f-9ed9-4cde-b5b4-b0d4a1228ee7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_bun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_burger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_ingredient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bun.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum/bun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/burger.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum/burger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ingredient.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum/ingredient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ingredient_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum/ingredient_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/praktikum.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Diplom_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2kdwqk3CYAkZ5wwshzg8Sw6R2LM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -73,22 +40,22 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "develop1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\1234\PycharmProjects\Diplom_1\praktikum" />

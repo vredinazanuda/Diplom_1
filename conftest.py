@@ -7,14 +7,6 @@ from data import Data
 @pytest.fixture(scope='function')
 def burger():
     burger = Burger()
-    mock_ingredient_1 = Mock()
-    mock_ingredient_1.name = Data.INGREDIENT_1_NAME
-    mock_ingredient_1.price = Data.INGREDIENT_1_PRICE
-    mock_ingredient_1.type = Data.INGREDIENT_1_TYPE
-    mock_ingredient_2 = Mock()
-    mock_ingredient_2.name = Data.INGREDIENT_2_NAME
-    mock_ingredient_2.price = Data.INGREDIENT_2_PRICE
-    mock_ingredient_2.type = Data.INGREDIENT_2_TYPE
     burger.add_ingredient(mock_ingredient_1)
     burger.add_ingredient(mock_ingredient_2)
     return burger
