@@ -5,7 +5,7 @@ from data import Data
 
 
 @pytest.fixture(scope='function')
-def burger():
+def burger(mock_ingredient_2, mock_ingredient_1):
     burger = Burger()
     burger.add_ingredient(mock_ingredient_1)
     burger.add_ingredient(mock_ingredient_2)
